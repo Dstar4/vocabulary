@@ -12,5 +12,12 @@
         "example": "(/[aeiou]/ig).test(\"Hello\")",
         "description": "In JavaScript, you can use the RegExp.prototype.test(), RegExp.prototype.exec(), and String.prototype.match(), to test if a regular expression matches any part of a string and to return the matching substrings.",
         "relevant-links": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp"
+    },
+    {
+        "name": "Closure",
+        "definition": "A closure is the combination of a function and the lexical environment within which that function was declared.",
+        "example": "Closures allow us to access a variable in an inner function that was declared in the parent function.",
+        "description": "Closures are useful because they let you associate some data (the lexical environment) with a function that operates on that data. This has obvious parallels to object-oriented programming, where objects allow us to associate some data (the object's properties) with one or more methods.",
+        "relevant-links": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures"
     }
 ]
