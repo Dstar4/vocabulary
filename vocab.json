@@ -1,7 +1,16 @@
-{
-    "name": "Template Literals",
-    "definition": "Template literals are string literals allowing embedded expressions.",
-    "example": "`string text ${expression} string text`",
-    "description": "Template literals are enclosed by the back-tick (` `)  (grave accent) character instead of double or single quotes. Template literals can contain placeholders. These are indicated by the dollar sign and curly braces (${expression}).",
-    "relevant-links": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals"
-}
+[
+    {
+        "name": "Template Literals",
+        "definition": "Template literals are string literals allowing embedded expressions.",
+        "example": "`string text ${expression} string text`",
+        "description": "Template literals are enclosed by the back-tick (` `)  (grave accent) character instead of double or single quotes. Template literals can contain placeholders. These are indicated by the dollar sign and curly braces (${expression}).",
+        "relevant-links": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals"
+    },
+    {
+        "name": "Regular Expressions",
+        "definition": "A regular expression is a sequence of characters that define a search pattern.",
+        "example": "(/[aeiou]/ig).test(\"Hello\")",
+        "description": "In JavaScript, you can use the RegExp.prototype.test(), RegExp.prototype.exec(), and String.prototype.match(), to test if a regular expression matches any part of a string and to return the matching substrings.",
+        "relevant-links": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp"
+    }
+]
