@@ -25,7 +25,7 @@
         "definition": "Object refers to a particular instance of a class, where the object can be a combination of variables, functions, and data structures.",
         "example": "const object1 = {a: 1,b: 2,c: 3};",
         "description": " The object-oriented approach is an evolution of good design practices that go back to the very beginning of computer programming.",
-        "relevant-links": "https://en.wikipedia.org/wiki/Object_(computer_science) https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object"
+        "relevant-links": ["https://en.wikipedia.org/wiki/Object_(computer_science)", "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object"]
     },
     {
         "name": "Function",
@@ -33,26 +33,6 @@
         "example": "function functionName(theObject) {theObject.name = 'Jessica';}",
         "description": "Function-oriented design relies on identifying functions which transform their inputs to create outputs.",
         "relevant-links": "https://developer.mozilla.org/en-US/docs/Glossary/Function"
-    },
-    {
-        "name": "",
-        "definition": "",
-        "example": "",
-        "description": "",
-        "relevant-links": ""
-    },
-    {
-        "name": "",
-        "definition": "",
-        "example": "",
-        "description": "",
-        "relevant-links": ""
-    },
-    {
-        "name": "",
-        "definition": "",
-        "example": "",
-        "description": "",
-        "relevant-links": ""
-    },
+    }
+   
 ]
