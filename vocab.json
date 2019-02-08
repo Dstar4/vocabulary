@@ -1,5 +1,5 @@
 {
-    "vocab": [
+    [
         {
             "name": "Template Literals",
             "definition": "Template literals are string literals allowing embedded expressions.",

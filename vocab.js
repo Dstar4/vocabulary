@@ -39,4 +39,4 @@ vocab = [
 
 
 
-console.log(vocab.toString())
+// console.log(vocab.toString())
